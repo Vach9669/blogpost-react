@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/blogpost-react/static/css/main.e0ee55d0.chunk.css",
+    "main.js": "/blogpost-react/static/js/main.2d736f79.chunk.js",
+    "main.js.map": "/blogpost-react/static/js/main.2d736f79.chunk.js.map",
+    "runtime-main.js": "/blogpost-react/static/js/runtime-main.f3ec9d32.js",
+    "runtime-main.js.map": "/blogpost-react/static/js/runtime-main.f3ec9d32.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/blogpost-react/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.afa09e50.chunk.js": "/blogpost-react/static/js/2.afa09e50.chunk.js",
+    "static/js/2.afa09e50.chunk.js.map": "/blogpost-react/static/js/2.afa09e50.chunk.js.map",
+    "index.html": "/blogpost-react/index.html",
+    "precache-manifest.b8ce1e6960c51dec30e4adc2ff60e06b.js": "/blogpost-react/precache-manifest.b8ce1e6960c51dec30e4adc2ff60e06b.js",
+    "service-worker.js": "/blogpost-react/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/blogpost-react/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.e0ee55d0.chunk.css.map": "/blogpost-react/static/css/main.e0ee55d0.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3ec9d32.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.afa09e50.chunk.js",
+    "static/css/main.e0ee55d0.chunk.css",
+    "static/js/main.2d736f79.chunk.js"
+  ]
+}
